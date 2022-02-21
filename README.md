@@ -1,6 +1,5 @@
 # Smart-Attendance-System
 
-Description of what is need to be implemented:
 It is required to develop a smart attendance capturing mobile app with following features: 
 1. It should capture basic details of employees like Photograph (headshot), Name, Designation, Employee Number, Gender, Office Address, etc. 
 2. It should recognize the employee by face while capturing the attendance (entry) through face recognition and enter the relevant details including entry time in the system after successful face recognition. Similarly, while exiting the office premises, employee will be recognized using his/her face and exit time will be entered in the system. 
